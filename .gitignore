@@ -1,0 +1,10 @@
+/base.mk
+/graalvm-*
+/binaryen-*
+/nvm
+*.class
+*.jar
+*.wasm
+*.html
+*.txt
+*.js*
